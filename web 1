@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Glixber Automations</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(120deg, #0f0f0f, #1a1a1a);
+      color: #f4f4f4;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+    header {
+      padding: 60px 20px 20px;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2.8rem;
+      color: #00ffee;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 700px;
+      margin: 10px auto;
+      text-align: center;
+    }
+    section {
+      max-width: 800px;
+      padding: 20px;
+    }
+    h2 {
+      color: #00ffee;
+      border-bottom: 1px solid #444;
+      padding-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Glixber Automations</h1>
+    <p>Explorando automatizaciones con IA y redes sociales. Página en desarrollo.</p>
+  </header>
+
+  <section>
+    <h2>Política de Privacidad</h2>
+    <p>Esta aplicación es parte de un proyecto educativo personal con fines de prueba.<br>
+    No se recopila, almacena ni comparte información personal de los usuarios.<br>
+    Cualquier dato recibido mediante las API es utilizado únicamente para pruebas locales de automatización y aprendizaje.<br>
+    Para dudas o inquietudes, contáctame directamente al correo de prueba del proyecto.</p>
+  </section>
+
+  <section>
+    <h2>Términos de Uso</h2>
+    <p>Esta app es un proyecto de pruebas para aprender sobre automatización con APIs.<br>
+    No se garantiza estabilidad ni funcionamiento continuo del servicio.<br>
+    Al usar esta app, entiendes que no hay compromiso comercial, recopilación de datos ni soporte.<br>
+    Este sitio y app están en desarrollo.</p>
+  </section>
+</body>
+</html>
