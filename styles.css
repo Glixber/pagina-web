@@ -140,10 +140,9 @@ html, body {
   margin-top: 24px;
   color: #ffffff;
   text-shadow:
-    0 0 6px rgba(26, 45, 51, 0.8),
-    0 0 12px rgba(26, 45, 51, 0.6),
-    0 0 20px rgba(26, 45, 51, 0.4),
-    2px 2px 6px rgba(0, 0, 0, 0.6);
+    0 2px 6px rgba(255, 255, 255, 0.3),
+    0 4px 10px rgba(255, 255, 255, 0.2),
+    1px 1px 3px rgba(0, 0, 0, 0.4);
 }
 
 .warning strong {
@@ -152,6 +151,7 @@ html, body {
 
 .warning .red-text {
   color: #C0003A;
+  text-shadow: none;
 }
 
 .lede strong,
