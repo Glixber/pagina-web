@@ -150,6 +150,10 @@ html, body {
   font-weight: 700;
 }
 
+.warning .red-text {
+  color: #C0003A;
+}
+
 .lede strong,
 .description strong {
   font-weight: 700;
